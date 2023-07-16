@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "graceful-fs": "^4.2.11",
+    "inquirer": "^9.2.8"
+  }
+}
