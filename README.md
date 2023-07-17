@@ -23,6 +23,8 @@ HERE'S A SCREENSHOT
 <img width="1411" alt="Screenshot 2023-07-16 at 7 15 51 PM" src="https://github.com/TannerRhines/logoGen/assets/129781576/95204e75-8d74-4903-988c-05a91f40ed01">
 
 
-HERE'S THE DEMO VIDEO LINK, AND TEST LINK
+HERE'S THE DEMO VIDEO LINK
 
-https://drive.google.com/file/d/1IrI2jLSiOwcAr1wrmkRG_nBQ49qjOjlM/view?usp=sharing
+https://drive.google.com/file/d/1aKtvWhBY5AC2Ddt_5rbJYhkDkLwve2Vg/view?usp=sharing
+
+
