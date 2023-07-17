@@ -11,7 +11,7 @@ REQUIREMENTS
 ------------
 a text editor, preferably VSCode or Sublime
 
-npm install the following packages - graceful-fs, inquirer 
+npm install the following packages - graceful-fs, inquirer & jest 
 
 
 LICENSES USED
